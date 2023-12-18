@@ -3,7 +3,7 @@
 ![Alt text](https://github.com/Chanin-Thongjin/Data_Pipeline_by_Airflow/blob/b0f7a61723b92841253d0c957bca800fcc78bc74/img/image-1.png)
 
 ## Step 1) Create Composer
-![Alt text](img\image.png)
+![Alt text](image.png)
 ## Step 2 ) Insert Packages
 ![Alt text](img\image-1.png)
 ## Step 3 ) Set Connection in Airflow(MySQL)
