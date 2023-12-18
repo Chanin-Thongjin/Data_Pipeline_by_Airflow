@@ -11,7 +11,7 @@ Step 2 ) Insert Packages
 Step 3 ) Set Connection in Airflow(MySQL)
 ![Alt text](image-2.png)
  
-Step 4 ) Upload data_pipe.py file to gs://…/dags in GCS.
+Step 4 ) Upload data_pipeline_load_to_BQ.py file to gs://…/dags in GCS.
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
