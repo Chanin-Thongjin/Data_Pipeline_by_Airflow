@@ -8,7 +8,7 @@ import requests
 
 # Set connection.
 MYSQL_CONNECTION = "mysql_default" # connection_id in airflow connection.
-CONVERSION_RATE_URL = "https://r2de2-workshop-vmftiryt6q-ts.a.run.app/usd_thb_conversion_rate"
+CONVERSION_RATE_URL = ""
 
 # Set path.
 mysql_output_path = "/home/airflow/gcs/data/audible_data_merged.csv"
